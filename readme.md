@@ -26,11 +26,6 @@ API_KEY = 'paste-your-api-key'
 
 ## How to run this project?
 
-**Clone this project**
-```
-$  git clone https://github.com/ianshulx/Django-Projects-for-beginners
-```
-
 **Then, Enter the project directory**
 ```
 $  cd Weather-Application-Django
